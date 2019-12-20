@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\sdlc\sdlc\bin\Debug\sdlc.exe.config
+C:\Users\Admin\source\repos\sdlc\sdlc\bin\Debug\sdlc.exe
+C:\Users\Admin\source\repos\sdlc\sdlc\bin\Debug\sdlc.pdb
+C:\Users\Admin\source\repos\sdlc\sdlc\obj\Debug\sdlc.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\sdlc\sdlc\obj\Debug\sdlc.Form1.resources
+C:\Users\Admin\source\repos\sdlc\sdlc\obj\Debug\sdlc.Properties.Resources.resources
+C:\Users\Admin\source\repos\sdlc\sdlc\obj\Debug\sdlc.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\sdlc\sdlc\obj\Debug\sdlc.exe
+C:\Users\Admin\source\repos\sdlc\sdlc\obj\Debug\sdlc.pdb
+C:\Users\Admin\source\repos\sdlc\sdlc\obj\Debug\sdlc.Form2.resources
+C:\Users\Admin\source\repos\sdlc\sdlc\obj\Debug\sdlc.Form3.resources
